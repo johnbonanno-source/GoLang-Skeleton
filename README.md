@@ -1,5 +1,3 @@
-# CarTrader
-
 ## General
 
 Parts of the system are configured using environment variables. For local development, those are not secret and local development values are currently in the `.env.example` file.
